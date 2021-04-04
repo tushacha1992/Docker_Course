@@ -1,12 +1,12 @@
 {
-  "name": "nodejs-hello-world",
+  "name": "nodejs-application",
   "version": "1.0.0",
-  "description": "nodejs-hello-world",
+  "description": "nodejs-application",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ranga",
+  "author": "tushacha",
   "dependencies": {
     "express": "^4.17.1"
   },
